@@ -217,7 +217,7 @@ This dashboard helps business stakeholders to:
 
 ## Cover Page
 
-![Cover Page](images/Cover_Page.png)
+![Cover Page]([images/Cover_Page.png](https://github.com/neelanjana13/Dairy-Goods-Sales-Dashboard/blob/main/Cover%20page.png))
 
 ---
 
