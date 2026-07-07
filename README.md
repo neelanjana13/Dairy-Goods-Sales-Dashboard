@@ -244,7 +244,7 @@ This dashboard helps business stakeholders to:
 
 ---
 
-## Business Insights & Recommendations
 
-![Business Insights](images/Business_Insights.png)
-ds-Sales-Dashboard
+
+![Business Insights](https://github.com/neelanjana13/Dairy-Goods-Sales-Dashboard/blob/main/Business%20Insights%20%26%20Recommendations.png)
+
