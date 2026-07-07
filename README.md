@@ -240,7 +240,7 @@ This dashboard helps business stakeholders to:
 
 
 
-![Farm & Customer Analysis](images/Farm_Customer_Analysis.png)
+![Farm & Customer Analysis](https://github.com/neelanjana13/Dairy-Goods-Sales-Dashboard/blob/main/Farm%20%26%20Customer%20Analysis.png)
 
 ---
 
