@@ -229,8 +229,7 @@ This dashboard helps business stakeholders to:
 
 
 
-![Sales & Product Analysis](images/Sales_Product_Analysis.png)
-
+![Sales & Product Analysis](https://github.com/neelanjana13/Dairy-Goods-Sales-Dashboard/blob/main/Sales%20%26%20Product%20Analysis.png)
 ---
 
 
