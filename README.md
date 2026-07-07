@@ -215,31 +215,31 @@ This dashboard helps business stakeholders to:
 
 #  Dashboard Preview
 
-## Cover Page
+
 
 ![Cover Page](https://github.com/neelanjana13/Dairy-Goods-Sales-Dashboard/blob/main/Cover%20page.png)
 
 ---
 
-## Executive Dashboard
 
-![Executive Dashboard](images/Executive_Dashboard.png)
+
+![Executive Dashboard](https://github.com/neelanjana13/Dairy-Goods-Sales-Dashboard/blob/main/Executive%20Dashboard.png)
 
 ---
 
-## Sales & Product Analysis
+
 
 ![Sales & Product Analysis](images/Sales_Product_Analysis.png)
 
 ---
 
-## Inventory Analysis
+
 
 ![Inventory Analysis](images/Inventory_Analysis.png)
 
 ---
 
-## Farm & Customer Analysis
+
 
 ![Farm & Customer Analysis](images/Farm_Customer_Analysis.png)
 
