@@ -234,7 +234,7 @@ This dashboard helps business stakeholders to:
 
 
 
-![Inventory Analysis](images/Inventory_Analysis.png)
+![Inventory Analysis](https://github.com/neelanjana13/Dairy-Goods-Sales-Dashboard/blob/main/Inventory%20Analysis.png)
 
 ---
 
